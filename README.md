@@ -1,0 +1,45 @@
+
+<!DOCTYPE html>
+<html lang="zh-Hant">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>結合地理位置與天氣預測的海洋健康與理財航行優化APP</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <h1>海洋健康與理財航行優化APP</h1>
+        <p>國立高雄科技大學 海事資訊科技系</p>
+    </header>
+
+    <section id="project-description">
+        <h2>專案說明</h2>
+        <p><strong>1. 提升海洋作業者的健康與安全保障</strong><br>
+            海洋作業環境特殊且具挑戰性，常涉及高壓、高風險的作業，且工作者的健康管理面臨隨時可能變動的環境風險。基於健康數據的監控與風險預警系統，可幫助遠離醫療設施的海上工作者實時掌握自身健康狀況，有效降低健康風險。</p>
+        
+        <p><strong>2. 提高航行時間管理效率</strong><br>
+            海洋工作者在航行中面臨不可控的環境變化（如天氣、海流），對時間管理需求高。將地理位置和天氣預測結合到時間管理應用中，可以實現動態行程調整，提高航行效率，減少時間浪費，並提升作業效能。</p>
+        
+        <p><strong>3. 實現資金風險管理與收益優化</strong><br>
+            海洋產業在長期航行過程中，經常面臨不可預測的財務風險，如燃料波動、緊急支出等。針對海上工作者的理財管理應用可以幫助他們做好資產分配和風險控制，實現收益最大化並保障財務安全。</p>
+    </section>
+
+    <section id="team">
+        <h2>組員資料</h2>
+        <p><strong>組長：</strong>王淳媞</p>
+        <p><strong>組員：</strong>林子翔</p>
+        <p><strong>組員：</strong>陳雅蓁</p>
+        <p><strong>指導老師：</strong>張珀銀 老師</p>
+    </section>
+
+    <section id="system-scenario">
+        <h2>系統情境</h2>
+        <img src="系統情境.jpg" alt="系統情境" width="100%">
+    </section>
+
+    <footer>
+        <p>&copy; 2025 結合地理位置與天氣預測的海洋健康與理財航行優化APP | 國立高雄科技大學 海事資訊科技系</p>
+    </footer>
+</body>
+</html>
